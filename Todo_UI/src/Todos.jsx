@@ -13,6 +13,6 @@ function Todos({ todos, toggleCompleted, removeTodo }) {
             ))}
         </div>
     );
-}
+}  
 
 export default Todos;
